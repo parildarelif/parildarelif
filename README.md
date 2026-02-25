@@ -1,83 +1,83 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Elif%20Par%C4%B1ldar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Psychology%20%7C%20Behavioral%20Data%20%7C%20Consumer%20Decision%20Science&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Elif%20Par%C4%B1ldar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Psikoloji%20%7C%20Davran%C4%B1%C5%9Fsal%20Veri%20%7C%20T%C3%BCketici%20Karar%20Bilimi&descSize=18&descAlignY=55" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=7C83FD&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=90&lines=Psychology%20%2B%20Data%20%2B%20Consumer%20Behavior;Experiment%20Design%20%26%20Behavioral%20Analysis;SPSS%20%7C%20R%20%7C%20Python%20%7C%20SQL%20%7C%20Figma" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=7C83FD&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=90&lines=Psikoloji%20%2B%20Veri%20%2B%20T%C3%BCketici%20Davran%C4%B1%C5%9F%C4%B1;Deney%20Tasar%C4%B1m%C4%B1%20%26%20Davran%C4%B1%C5%9Fsal%20Analiz;SPSS%20%7C%20R%20%7C%20Python%20%7C%20SQL%20%7C%20Figma" />
 </a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/elif-par%C4%B1ldar-2b7152313/">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="www.linkedin.com/in/elif-parıldar-2b7152313>
+  <img src="https://img.shields.io/badge/LinkedIn-Profesyonel%20Profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:parildarelif@gmail.com">
-  <img src="https://img.shields.io/badge/Email-parildarelif%40gmail.com-7C83FD?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/E--posta-parildarelif%40gmail.com-7C83FD?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 👩🏻‍💻 About Me
+## 👩🏻‍💻 Hakkımda
 
-Hi, I’m **Elif Parıldar**, a senior Psychology student at **Özyeğin University** focused on:
+Merhaba, ben **Elif Parıldar**. **Özyeğin Üniversitesi**’nde son sınıf Psikoloji öğrencisiyim ve şu alanlara odaklanıyorum:
 
-- 🧠 Consumer decision-making & behavioral science  
-- 🧪 Experiment design & analysis (choice overload, decision fatigue)  
-- 📊 Statistical analysis (ANOVA/MANOVA, reliability)  
-- 🎯 Turning results into clear, actionable insights  
+- 🧠 Tüketici karar verme & davranış bilimi  
+- 🧪 Deney tasarımı & analiz (seçenek fazlalığı, karar yorgunluğu)  
+- 📊 İstatistiksel analiz (ANOVA/MANOVA, güvenilirlik)  
+- 🎯 Sonuçları net ve aksiyona dönük içgörülere çevirmek  
 
-I am currently seeking **research, analytics, or consumer insights internship opportunities**.
-
----
-
-## 🔬 Research & Analytical Projects
-
-### 🛒 Consumer Decision Fatigue (Ongoing)
-Experimental study examining how **choice overload** influences:
-- decision time
-- purchase intention
-- decision satisfaction
-
-**Tools & Methods:** SPSS (MANOVA/ANOVA), R (visualization), Python (data processing), Qualtrics (experiment setup)
+Şu anda **araştırma, analitik veya consumer insights** alanlarında **staj fırsatlarına açığım**.
 
 ---
 
-### 📏 Gaslighting Scale Development
-Psychometric scale development including:
-- EFA (Exploratory Factor Analysis)
-- reliability testing (Cronbach’s alpha)
-- construct-focused measurement design
+## 🔬 Araştırma & Analitik Projeler
+
+### 🛒 Karar Yorgunluğu (Devam Ediyor)
+**Seçenek fazlalığının** şu değişkenlere etkisini inceleyen deneysel çalışma:
+- karar süresi
+- satın alma niyeti
+- karar memnuniyeti
+
+**Araçlar & Yöntemler:** SPSS (MANOVA/ANOVA), R (görselleştirme), Python (veri işleme), Qualtrics (deney kurulumu)
 
 ---
 
-### 💬 Digital Persuasion Study
-Experimental research on persuasion in digital narratives and online environments.
+### 📏 Gaslighting Ölçeği Geliştirme
+Psikometrik ölçek geliştirme kapsamında:
+- EFA (Açımlayıcı Faktör Analizi)
+- güvenilirlik testleri (Cronbach’s alpha)
+- yapı odaklı ölçüm tasarımı
 
 ---
 
-## 🧰 Technical Toolkit
+### 💬 Dijital İkna Çalışması
+Dijital anlatılar ve çevrimiçi ortamlarda ikna üzerine deneysel araştırma.
+
+---
+
+## 🧰 Teknik Araç Seti
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,r,mysql,git,github,figma&theme=dark" />
 </div>
 
-- **SPSS:** ANOVA, MANOVA, reliability analysis  
-- **R:** visualization & statistical workflows  
-- **Python:** data processing & basic modeling  
-- **SQL:** data querying  
-- **Qualtrics:** survey & experiment setup  
-- **Figma:** research storytelling & product mockups  
+- **SPSS:** ANOVA, MANOVA, güvenilirlik analizi  
+- **R:** görselleştirme & istatistiksel akışlar  
+- **Python:** veri işleme & temel modelleme  
+- **SQL:** veri sorgulama  
+- **Qualtrics:** anket & deney kurulumu  
+- **Figma:** araştırma anlatımı (storytelling) & ürün mockup’ları  
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Şu Anki Odağım
 
-- Behavioral Data Science  
-- Consumer Analytics  
-- Decision Intelligence Systems  
-- Experimental Design in Digital Platforms  
+- Davranışsal Veri Bilimi  
+- Tüketici Analitiği  
+- Karar Zekâsı Sistemleri (Decision Intelligence)  
+- Dijital Platformlarda Deneysel Tasarım  
 
 ---
 

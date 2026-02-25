@@ -1,17 +1,16 @@
-
 Markdown
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6366F1,A855F7,EC4899&height=180&section=header&text=Elif%20Parıldar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Psychology%20Senior%20%7C%20Data%20Analyst%20%7C%20Consumer%20Insights&descSize=16&descAlignY=52" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Psychology+%26+Data+Science+%F0%9F%A7%A0;Consumer+Behavior+Researcher;Future+Consumer+Insights+Specialist" alt="Typing SVG" /></a>
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6366F1,A855F7,EC4899&height=180&section=header&text=Elif%20Parıldar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Psychology%20Senior%20%7C%20Data%20Analyst%20%7C%20Consumer%20Insights&descSize=16&descAlignY=52](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6366F1,A855F7,EC4899&height=180&section=header&text=Elif%20Parıldar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Psychology%20Senior%20%7C%20Data%20Analyst%20%7C%20Consumer%20Insights&descSize=16&descAlignY=52)" width="100%"/>
+
+<a href="[https://git.io/typing-svg](https://git.io/typing-svg)"><img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Psychology+%26+Data+Science+%F0%9F%A7%A0;Consumer+Behavior+Researcher;Future+Consumer+Insights+Specialist](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Psychology+%26+Data+Science+%F0%9F%A7%A0;Consumer+Behavior+Researcher;Future+Consumer+Insights+Specialist)" alt="Typing SVG" /></a>
 
 <p>
   <a href="mailto:elif.parildar@ozu.edu.tr">
-    <img src="https://img.shields.io/badge/Email-elif.parildar%40ozu.edu.tr-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="[https://img.shields.io/badge/Email-elif.parildar%40ozu.edu.tr-A855F7?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-elif.parildar%40ozu.edu.tr-A855F7?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/elif-par%C4%B1ldar-2b7152313/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="[https://www.linkedin.com/in/elif-par%C4%B1ldar-2b7152313/](https://www.linkedin.com/in/elif-par%C4%B1ldar-2b7152313/)">
+    <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -19,7 +18,7 @@ Markdown
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> About Me
+## <img src="[https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png)" alt="Technologist" width="30" /> About Me
 
 ```javascript
 const elif = {
@@ -32,8 +31,8 @@ const elif = {
         analysis: ["SPSS", "R", "Python", "SQL"],
         research: ["Qualtrics", "Survey Design", "Experimental Design"],
         statistics: ["MANOVA/ANOVA", "EFA", "Cronbach's Alpha"],
-        design_tools: ["Figma", "Data Visualization"],
-        office_tools: ["MS Office (Word, Excel)"]
+        design: ["Figma", "Data Visualization"],
+        office: ["MS Office (Word, Excel)"]
     },
     
     achievements: [
@@ -49,36 +48,32 @@ const elif = {
 
 📊 Data Analysis & Languages
 <p>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dr,python,mysql%26theme%3Ddark" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SPSS-0073B7%3Fstyle%3Dfor-the-badge%26logo%3Dibm%26logoColor%3Dwhite" alt="SPSS" />
+<img src="https://skillicons.dev/icons?i=r,python,mysql&theme=dark" />
+<img src="https://img.shields.io/badge/SPSS-0073B7?style=for-the-badge&logo=ibm&logoColor=white" alt="SPSS" />
 </p>
 
 🎨 Design & Research Tools
 <p>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dfigma,excel,word%26theme%3Ddark" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Qualtrics-000000%3Fstyle%3Dfor-the-badge%26logo%3Dqualtrics%26logoColor%3Dwhite" alt="Qualtrics" />
+<img src="https://skillicons.dev/icons?i=figma,excel,word&theme=dark" />
+<img src="https://img.shields.io/badge/Qualtrics-000000?style=for-the-badge&logo=qualtrics&logoColor=white" alt="Qualtrics" />
 </p>
 
 📜 Certifications
 <p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Coursera-Data_Science_Math-blue%3Fstyle%3Dflat-square%26logo%3Dcoursera" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Coursera-SQL_for_Data_Science-blue%3Fstyle%3Dflat-square%26logo%3Dcoursera" />
+<img src="https://img.shields.io/badge/Coursera-Data_Science_Math-blue?style=flat-square&logo=coursera" />
+<img src="https://img.shields.io/badge/Coursera-SQL_for_Data_Science-blue?style=flat-square&logo=coursera" />
 </p>
 
 </div>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem" width="30" /> Featured Research
+🛒 Consumer Decision Fatigue (2025): Experimental study on cognitive load in online purchase decisions using SPSS and R.
 
-🛒 Consumer Decision Fatigue (2025): Experimental study on cognitive load in online purchase decisions using SPSS and R. 
+⚖️ Gaslighting Scale Development: Development and validation using EFA and reliability analysis.
 
+📱 Online Dating Persuasion: Research on persuasion effects, accepted for SWPA Conference 2025.
 
-⚖️ Gaslighting Scale Development: Development and validation using EFA and reliability analysis. 
-
-
-📱 Online Dating Persuasion: Research on persuasion effects, accepted for SWPA Conference 2025. 
-
-
-💔 Self-Esteem & Breakups: Investigation using the Theory of Planned Behavior framework. 
+💔 Self-Esteem & Breakups: Investigation using the Theory of Planned Behavior framework.
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Envelope" width="30" /> Let's Connect!
 <div align="center">
@@ -88,9 +83,9 @@ const elif = {
 </p>
 
 <a href="mailto:elif.parildar@ozu.edu.tr">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Send_an_Email-elif.parildar%2540ozu.edu.tr-A855F7%3Fstyle%3Dfor-the-badge%26logo%3Dprotonmail%26logoColor%3Dwhite" alt="Email"/>
+<img src="https://img.shields.io/badge/Send_an_Email-elif.parildar%40ozu.edu.tr-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
 
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D6366F1,A855F7,EC4899%26height%3D120%26section%3Dfooter" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6366F1,A855F7,EC4899&height=120&section=footer" width="100%"/>

@@ -1,6 +1,3 @@
-Harika bir fikir, "Technical Toolkit" kısmındaki tasarım yeteneklerini Figma ile güçlendirmek profilini daha da profesyonel gösterecektir.
-
-LinkedIn bağlantını güncellediğim, hastane stajını çıkardığım ve Figma'yı hem kod bloğuna hem de görsel araçlar kısmına eklediğim güncel kod aşağıdadır:
 
 Markdown
 <div align="center">

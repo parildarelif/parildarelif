@@ -1,3 +1,7 @@
+Harika bir fikir, "Technical Toolkit" kısmındaki tasarım yeteneklerini Figma ile güçlendirmek profilini daha da profesyonel gösterecektir.
+
+LinkedIn bağlantını güncellediğim, hastane stajını çıkardığım ve Figma'yı hem kod bloğuna hem de görsel araçlar kısmına eklediğim güncel kod aşağıdadır:
+
 Markdown
 <div align="center">
   
@@ -9,7 +13,7 @@ Markdown
   <a href="mailto:elif.parildar@ozu.edu.tr">
     <img src="https://img.shields.io/badge/Email-elif.parildar%40ozu.edu.tr-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/elifparildar">
+  <a href="https://www.linkedin.com/in/elif-par%C4%B1ldar-2b7152313/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -31,7 +35,8 @@ const elif = {
         analysis: ["SPSS", "R", "Python", "SQL"],
         research: ["Qualtrics", "Survey Design", "Experimental Design"],
         statistics: ["MANOVA/ANOVA", "EFA", "Cronbach's Alpha"],
-        tools: ["MS Office", "Data Visualization"]
+        design_tools: ["Figma", "Data Visualization"],
+        office_tools: ["MS Office (Word, Excel)"]
     },
     
     achievements: [
@@ -51,10 +56,10 @@ const elif = {
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/SPSS-0073B7%3Fstyle%3Dfor-the-badge%26logo%3Dibm%26logoColor%3Dwhite" alt="SPSS" />
 </p>
 
-🔍 Research & Insights
+🎨 Design & Research Tools
 <p>
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dfigma,excel,word%26theme%3Ddark" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Qualtrics-000000%3Fstyle%3Dfor-the-badge%26logo%3Dqualtrics%26logoColor%3Dwhite" alt="Qualtrics" />
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dexcel,word%26theme%3Ddark" />
 </p>
 
 📜 Certifications
@@ -66,13 +71,17 @@ const elif = {
 </div>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem" width="30" /> Featured Research
-🛒 Consumer Decision Fatigue (2025): Experimental study on cognitive load in online purchase decisions using R/SPSS.
 
-⚖️ Gaslighting Scale Development: Validation and EFA analysis for psychological structure.
+🛒 Consumer Decision Fatigue (2025): Experimental study on cognitive load in online purchase decisions using SPSS and R. 
 
-📱 Online Dating Persuasion: Research on attitude changes, accepted for SWPA Conference 2025.
 
-💔 Self-Esteem & Breakups: Investigation using the Theory of Planned Behavior (TPB).
+⚖️ Gaslighting Scale Development: Development and validation using EFA and reliability analysis. 
+
+
+📱 Online Dating Persuasion: Research on persuasion effects, accepted for SWPA Conference 2025. 
+
+
+💔 Self-Esteem & Breakups: Investigation using the Theory of Planned Behavior framework. 
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Envelope" width="30" /> Let's Connect!
 <div align="center">

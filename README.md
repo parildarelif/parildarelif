@@ -8,9 +8,10 @@
 
 <br/>
 
-<a href="www.linkedin.com/in/elif-parıldar-2b7152313>
+<a href="https://www.linkedin.com/in/elif-par%C4%B1ldar-2b7152313/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Profesyonel%20Profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:parildarelif@gmail.com">
   <img src="https://img.shields.io/badge/E--posta-parildarelif%40gmail.com-7C83FD?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -34,7 +35,7 @@ Merhaba, ben **Elif Parıldar**. **Özyeğin Üniversitesi**’nde son sınıf P
 
 ## 🔬 Araştırma & Analitik Projeler
 
-### 🛒 Karar Yorgunluğu (Devam Ediyor)
+### 🛒 Karar Yorgunluğu 
 **Seçenek fazlalığının** şu değişkenlere etkisini inceleyen deneysel çalışma:
 - karar süresi
 - satın alma niyeti
